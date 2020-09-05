@@ -4,7 +4,7 @@ i'm a student from minnesota just trying to get by.
 
 - 📛 my pronouns are **they/them**
 - 🧙🏻 i'm **22** years old
-- 😻 i have an adorable cat named **[Lexi](/katacarbix/katacarbix/lexi.jpg)**
+- 😻 i have an adorable cat named **[Lexi](lexi.jpg)**
 - 🧑🏻‍🎓 i'm pursuing an individualized degree in Computer Science and Design at the University of Minnesota
 - 🎨 [i also make art](https://tumblr.ovine.xyz)
 - 🦊 a lot of my code is mirrored and some projects are only available on [GitLab](https://gitlab.com/katacarbix)
@@ -13,18 +13,13 @@ i'm a student from minnesota just trying to get by.
 
 #### tools i use
 
-code:
-
+code:  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ff4d66?style=flat&logo=node.js&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-ff4db8?style=flat&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-ae54ff?style=flat&logo=CSS3&logoColor=white) ![Python](https://img.shields.io/badge/-Python-4eaff2?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-8abf49?style=flat&logo=C%2B%2B&logoColor=white)
 
-
-graphics:
-
+graphics:  
 ![Processing](https://img.shields.io/badge/-Processing-ff4d66?style=flat) ![GIMP](https://img.shields.io/badge/-GIMP-ff4db8?style=flat&logo=gimp&logoColor=white) ![Inkscape](https://img.shields.io/badge/-Inkscape-ae54ff?style=flat&logo=inkscape&logoColor=white) ![Blender](https://img.shields.io/badge/-Blender-4eaff2?style=flat&logo=blender&logoColor=white)
 
-
-environment:
-
+environment:  
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-ff4d66?style=flat&logo=ubuntu&logoColor=white) ![Atom](https://img.shields.io/badge/-Atom-ff4db8?style=flat&logo=atom&logoColor=white) ![kitty](https://img.shields.io/badge/-kitty-ae54ff?style=flat) ![fish](https://img.shields.io/badge/-fish-4eaff2?style=flat)
 
 ---
