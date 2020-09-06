@@ -53,6 +53,6 @@ i have a [ko-fi](https://ko-fi.com/reeseovine) where you can make a one-time don
 
 #### if you want to connect with me you can...
 
-- follow me on Twitter [![twitter widget](https://img.shields.io/twitter/follow/reeseovine)](https://twitter.com/katacarbix)
+- follow me on Twitter [![twitter widget](https://img.shields.io/twitter/follow/reeseovine)](https://twitter.com/reeseovine)
 - join the Discord server that i run [![discord widget](https://discordapp.com/api/guilds/669983008908116005/embed.png)](https://discord.gg/ee7yMpN)
 - visit my website – [https://ovine.xyz](https://ovine.xyz)
