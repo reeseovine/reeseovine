@@ -4,7 +4,7 @@ i'm a student from minnesota just trying to get by.
 
 - 📛 my pronouns are **they/them**
 - 🧙🏻 i'm **22** years old
-- 😻 i have an adorable cat named **[Lexi](lexi.jpg)**
+- 😻 i have an adorable cat named **[Lexi](https://github.com/katacarbix/katacarbix/blob/master/lexi.jpg)**
 - 🧑🏻‍🎓 i'm pursuing an individualized degree in Computer Science and Design at the University of Minnesota
 - 🎨 [i also make art](https://tumblr.ovine.xyz)
 - 🦊 a lot of my code is mirrored and some projects are only available on [GitLab](https://gitlab.com/katacarbix)
