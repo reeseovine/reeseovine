@@ -58,7 +58,7 @@ i have a [ko-fi](https://ko-fi.com/reeseovine) where you can make a one-time don
   </tr>
   <tr>
     <td>
-      follow me on Twitter <a href="https://twitter.com/reeseovine"><img src="https://img.shields.io/twitter/follow/reeseovine"></a> <br> join my Discord server <a href="https://discord.gg/ee7yMpN"><img src="https://discordapp.com/api/guilds/669983008908116005/embed.png"></a>
+      follow me on Twitter <a href="https://twitter.com/reeseovine"><img src="https://img.shields.io/badge/-%40reeseovine-424242?style=flat&logo=twitter"></a> <br> join my Discord server <a href="https://discord.gg/ee7yMpN"><img src="https://discordapp.com/api/guilds/669983008908116005/embed.png"></a>
     </td>
     <td>
       <a href="https://ko-fi.com/J3J61Z29K"><img src="https://www.ko-fi.com/img/githubbutton_sm.svg"></a>
