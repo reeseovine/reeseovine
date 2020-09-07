@@ -53,12 +53,13 @@ i have a [ko-fi](https://ko-fi.com/reeseovine) where you can make a one-time don
 
 <table>
   <tr>
-    <th align="left">if you want to connect with me...</th>
-    <th align="left">if you want to support me...</th>
+    <th align="left">if you want to connect with me you can...</th>
+    <th align="left">if you want to support me you can...</th>
   </tr>
   <tr>
     <td>
-      follow me on Twitter <a href="https://twitter.com/reeseovine"><img src="https://img.shields.io/badge/-%40reeseovine-424242?style=flat&logo=twitter"></a> <br> join my Discord server <a href="https://discord.gg/ee7yMpN"><img src="https://discordapp.com/api/guilds/669983008908116005/embed.png"></a>
+      <a href="https://twitter.com/reeseovine"><img src="https://img.shields.io/badge/-%40reeseovine-424242?style=flat&logo=twitter"></a> follow me on Twitter<br>
+      <a href="https://discord.gg/ee7yMpN"><img src="https://discordapp.com/api/guilds/669983008908116005/embed.png"></a> join my Discord server
     </td>
     <td>
       <a href="https://ko-fi.com/J3J61Z29K"><img src="https://www.ko-fi.com/img/githubbutton_sm.svg"></a>
