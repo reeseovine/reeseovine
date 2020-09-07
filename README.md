@@ -7,7 +7,7 @@ i'm a student from minnesota just trying to get by.
 - 😻 i have an adorable cat named **[Lexi](https://github.com/katacarbix/katacarbix/blob/master/lexi.jpg)**
 - 🧑🏻‍🎓 i'm pursuing an individualized degree in Computer Science and Design at the University of Minnesota
 - 🎨 [i also make art](https://tumblr.ovine.xyz)
-- 🦊 a lot of my code is mirrored and some projects are only available on [![GitLab](https://img.shields.io/badge/-GitLab-424242?style=flat&logo=gitlab)](https://gitlab.com/katacarbix)
+- 🦊 a lot of my code is mirrored and some projects are only available on [GitLab](https://gitlab.com/katacarbix)
 
 ---
 
@@ -51,8 +51,17 @@ i have a [ko-fi](https://ko-fi.com/reeseovine) where you can make a one-time don
 
 ---
 
-#### if you want to connect with me you can...
-
-- follow me on Twitter [![twitter widget](https://img.shields.io/twitter/follow/reeseovine)](https://twitter.com/reeseovine)
-- join the Discord server that i run [![discord widget](https://discordapp.com/api/guilds/669983008908116005/embed.png)](https://discord.gg/ee7yMpN)
-- visit my website – [https://ovine.xyz](https://ovine.xyz)
+<table>
+  <tr>
+    <th align="left">if you want to connect with me...</th>
+    <th align="left">if you want to support me...</th>
+  </tr>
+  <tr>
+    <td>
+      follow me on Twitter <a href="https://twitter.com/reeseovine"><img src="https://img.shields.io/twitter/follow/reeseovine"></a> <br> join my Discord server <a href="https://discord.gg/ee7yMpN"><img src="https://discordapp.com/api/guilds/669983008908116005/embed.png"></a>
+    </td>
+    <td>
+      <a href="https://ko-fi.com/J3J61Z29K"><img src="https://www.ko-fi.com/img/githubbutton_sm.svg"></a>
+    </td>
+  </tr>
+</table>
