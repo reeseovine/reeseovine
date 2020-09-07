@@ -35,8 +35,8 @@ environment:
 ---
 
 <p align="center">
-  <img height="184em" src="https://github-readme-stats.vercel.app/api?username=katacarbix&theme=dracula&show_icons=true&count_private=true&include_all_commits=true" />
-  <img height="184em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katacarbix&theme=dracula&layout=compact&count_private=false" />
+  <img height="184em" src="https://github-readme-stats.vercel.app/api?username=katacarbix&show_icons=true&count_private=true&include_all_commits=true&title_color=e041a0&text_color=1f1f1f&icon_color=368cc9">
+  <img height="184em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katacarbix&layout=compact&count_private=false&title_color=e041a0&text_color=1f1f1f&icon_color=368cc9">
 </p>
 
 ---
