@@ -36,7 +36,7 @@ environment:
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=katacarbix&theme=dracula&show_icons=true&count_private=true&include_all_commits=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katacarbix&theme=dracula&layout=compact&hide=css" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katacarbix&theme=dracula&layout=compact&count_private=false" />
 </p>
 
 ---
