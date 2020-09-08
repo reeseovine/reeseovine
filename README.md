@@ -47,7 +47,7 @@ it's a node module that can understand users' pronouns and lets you use them in 
 #### i’m looking for help with funding.
 i'll be honest, being deaf, disabled, trans, and with little work experience makes it hard to find a job that both accommodates my needs and allows me to do what i enjoy. plus, the 2020 pandemic and bureaucracy in general makes government assistance incredibly difficult and slow to obtain. i'm thankful for my parents helping me out for the time being, but i would like to be able to live on my own and have more freedom.
 
-i have a [ko-fi](https://ko-fi.com/reeseovine) where you can make a one-time donation, and i'm also waiting for my GitHub Sponsors page to be approved.
+i have a [ko-fi](https://ko-fi.com/reeseovine) where you can make a one-time donation, or you can make a monthly donation on [my Sponsors page](https://github.com/sponsors/katacarbix).
 
 ---
 
@@ -62,7 +62,8 @@ i have a [ko-fi](https://ko-fi.com/reeseovine) where you can make a one-time don
       <a href="https://discord.gg/ee7yMpN"><img src="https://discordapp.com/api/guilds/669983008908116005/embed.png"></a> join my Discord server
     </td>
     <td>
-      <a href="https://ko-fi.com/J3J61Z29K"><img src="https://www.ko-fi.com/img/githubbutton_sm.svg"></a>
+      <a href="https://ko-fi.com/J3J61Z29K"><img src="https://www.ko-fi.com/img/githubbutton_sm.svg"></a><br>
+      <a href="https://github.com/sponsors/katacarbix">:heart::octocat: Sponsor me</a>
     </td>
   </tr>
 </table>
