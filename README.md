@@ -62,7 +62,8 @@ i have a [ko-fi](https://ko-fi.com/reeseovine) where you can make a one-time don
       <a href="https://discord.gg/ee7yMpN"><img src="https://discordapp.com/api/guilds/669983008908116005/embed.png"></a> join my Discord server
     </td>
     <td>
-      <a href="https://ko-fi.com/J3J61Z29K"><img src="https://www.ko-fi.com/img/githubbutton_sm.svg"></a>
+      <a href="https://ko-fi.com/J3J61Z29K"><img src="https://www.ko-fi.com/img/githubbutton_sm.svg"></a><br>
+      <a href="https://github.com/sponsors/katacarbix">:heart::octocat: Sponsor me</a>
     </td>
   </tr>
 </table>
