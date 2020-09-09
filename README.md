@@ -52,7 +52,7 @@ environment:
 it's a node module that can understand users' pronouns and lets you use them in sentences. the upcoming version brings more flexibility to parsing the input string. try out the demo [here](https://katacarbix.github.io/pronouns.js/demo/index.html)!
 
 #### i’m looking for help with funding.
-i'll be honest, being deaf, disabled, trans, and with little work experience makes it hard to find a job that both accommodates my needs and allows me to do what i enjoy. plus, the 2020 pandemic and bureaucracy in general makes government assistance incredibly difficult and slow to obtain. i'm thankful for my parents helping me out for the time being, but i would like to be able to live on my own and have more freedom.
+i'll be honest, being deaf, disabled, neurodivergent, trans, and with little work experience makes it hard to find a job that both accommodates my needs and allows me to do what i enjoy. plus, the 2020 pandemic and bureaucracy in general makes government assistance incredibly difficult and slow to obtain. i'm thankful for my parents helping me out for the time being, but i would like to be able to live on my own and have more freedom.
 
 i have a [ko-fi](https://ko-fi.com/reeseovine) where you can make a one-time donation, or you can make a monthly donation on [my Sponsors page](https://github.com/sponsors/katacarbix).
 
