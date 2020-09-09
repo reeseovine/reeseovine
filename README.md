@@ -9,6 +9,13 @@ i'm a student from minnesota just trying to get by.
 - 🎨 [i also make art](https://tumblr.ovine.xyz)
 - 🦊 a lot of my code is mirrored and some projects are only available on [GitLab](https://gitlab.com/katacarbix)
 
+<details>
+  <summary>what does my GitHub status indicator emoji mean?</summary>
+  
+  - 📖 — i'm currently in school, taking classes, etc. which will probably take up most of my time.
+  - anything else means i'm usually available to deal with issues and pull requests! (i like to use 🐑)
+</details>
+
 ---
 
 #### tools i use
