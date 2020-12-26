@@ -2,11 +2,11 @@
 
 i'm a student from minnesota just trying to get by.
 
-- 📛 my pronouns are **they/them**
-- 🧙🏻 i'm **23** years old
-- 😻 i have an adorable cat named **[Lexi](https://github.com/katacarbix/katacarbix/blob/master/lexi.jpg)**
-- 🎨 [i also make art](https://tumblr.ovine.xyz)
-- 🦊 a lot of my code is mirrored and some projects are only available on [GitLab](https://gitlab.com/katacarbix)
+- :name_badge: my pronouns are **they/them**
+- :mage: i'm **23** years old
+- :heart_eyes_cat: i have an adorable cat named **[Lexi](https://github.com/katacarbix/katacarbix/blob/master/lexi.jpg)**
+- :art: [i also make art sometimes](https://tumblr.ovine.xyz)
+- :fox_face: a lot of my code is mirrored and some projects are only available on [GitLab](https://gitlab.com/katacarbix)
 
 ---
 
@@ -35,8 +35,8 @@ environment:
 ---
 
 <p align="center">
-  <img height="174em" src="https://github-readme-stats.vercel.app/api?username=katacarbix&show_icons=true&count_private=true&include_all_commits=true&title_color=e041a0&text_color=1f1f1f&icon_color=368cc9">
-  <img height="174em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katacarbix&layout=compact&count_private=false&hide=css&title_color=e041a0&text_color=1f1f1f&icon_color=368cc9">
+	<img height="174em" src="https://github-readme-stats.vercel.app/api?username=katacarbix&show_icons=true&count_private=true&include_all_commits=true&title_color=e041a0&text_color=1f1f1f&icon_color=368cc9">
+	<img height="174em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katacarbix&layout=compact&count_private=false&hide=css&title_color=e041a0&text_color=1f1f1f&icon_color=368cc9">
 </p>
 
 ---
@@ -50,18 +50,18 @@ i have a [ko-fi](https://ko-fi.com/reeseovine) where you can make a one-time don
 ---
 
 <table>
-  <tr>
-    <th align="left">if you want to connect with me you can...</th>
-    <th align="left">if you want to support me you can...</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://twitter.com/reeseovine"><img src="https://img.shields.io/badge/-%40reeseovine-424242?style=flat&logo=twitter"></a> follow me on Twitter<br>
-      <a href="https://discord.gg/cQSEBjc"><img src="https://discord.com/api/guilds/669983008908116005/widget.png"></a> join my Discord server
-    </td>
-    <td>
-      <a href="https://github.com/sponsors/katacarbix">❤:octocat: Sponsor me</a><br>
-      <a href="https://ko-fi.com/J3J61Z29K"><img src="https://www.ko-fi.com/img/githubbutton_sm.svg"></a>
-    </td>
-  </tr>
+	<tr>
+		<th align="left">if you want to connect with me you can...</th>
+		<th align="left">if you want to support me you can...</th>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://twitter.com/reeseovine"><img src="https://img.shields.io/badge/-%40reeseovine-424242?style=flat&logo=twitter"></a> follow me on Twitter<br>
+			<a href="https://discord.gg/cQSEBjc"><img src="https://discord.com/api/guilds/669983008908116005/widget.png"></a> join my Discord server
+		</td>
+		<td>
+			<a href="https://github.com/sponsors/katacarbix">:heart::octocat: Sponsor me</a><br>
+			<a href="https://ko-fi.com/J3J61Z29K"><img src="https://www.ko-fi.com/img/githubbutton_sm.svg"></a>
+		</td>
+	</tr>
 </table>
