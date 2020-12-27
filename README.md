@@ -1,7 +1,7 @@
 <table align="right">
 	<tr>
 		<td>
-			<img width="180px" src="https://raw.githubusercontent.com/katacarbix/katacarbix/master/lexi.jpg">
+			<img width="186px" src="https://raw.githubusercontent.com/katacarbix/katacarbix/master/lexi.jpg">
 		</td>
 	</tr>
 </table>
