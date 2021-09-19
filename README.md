@@ -41,14 +41,14 @@ graphics:
 [environment](https://github.com/katacarbix/dotfiles):
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-ff4d66?style=flat&logo=ubuntu&logoColor=white)
 ![i3wm](https://img.shields.io/badge/-i3wm-ff4db8?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAzgAAAM4BlP6ToAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAANdEVYdFRpdGxlAExvZ28gSTNDwxAsAAAAEXRFWHRBdXRob3IAc3RlY2tkZW5pc/KH1/8AAABUdEVYdERlc2NyaXB0aW9uAExvZ28gZm9yIEkzLCBhbiBpbXByb3ZlZCBkeW5hbWljIHRpbGluZyB3aW5kb3cgbWFuYWdlcjogaHR0cDovL2kzd20ub3JnL10hbNsAAABSdEVYdENvcHlyaWdodABDQyBBdHRyaWJ1dGlvbi1TaGFyZUFsaWtlIGh0dHA6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LXNhLzQuMC/DVGIFAAAA/UlEQVQokX3Rvy7DYRjF8efnT8LERqPCzuIehASJjgbuQdhMFouEobdASCS2YisuAhFcQNdKUDQfg98vad60fbbnnPPNc/K+ET0GO7jt5Q/1MiKiHhENjEbEb5ZlP32yXS/f4AGT/UJ72Eq0NbTwhFKhDyTsSEQMdwpZltUiohIRsxFxh6l+l++xn2ir+MIzJgLbWEhCJ/7nMNFX8I2LQB2bSWAQpzl8lHjneC+WMdSwmMDF5eMO/RqNYhnHGz6xnMBnObyLebRR7axQxksOLyXwATbwiCZm0tcs4xUfCTyXQ21Uen3FdA638ppXOdDEeleoAy7hMg83UE3r/QESUTn1dchqbQAAAABJRU5ErkJggg==)
-![Atom](https://img.shields.io/badge/-Atom-ae54ff?style=flat&logo=atom&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/-Sublime_Text-ae54ff?style=flat&logo=sublimetext&logoColor=white)
 ![kitty](https://img.shields.io/badge/-kitty-4eaff2?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAABowAAAaMBV3L7TQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAASdEVYdEF1dGhvcgBLb3ZpZCBHb3lhbPdy6K8AAABSdEVYdENvcHlyaWdodABDQyBBdHRyaWJ1dGlvbi1TaGFyZUFsaWtlIGh0dHA6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LXNhLzQuMC/DVGIFAAAAoklEQVQokcXSsW3CUBQF0GOI6CnSpErECGkiUaVJSUPBBmyCUjICDVtkBe+QAlaIpTTcNESyXRjbDbf7X/9IT/f9IkmJV8NSFkkyEIHJGFSHwQbnobDAG95x6iXTzD7Jc5Lv3EgbJslnkkWS3y7YLqfCF5aYdU1aX0eFFR5xxLQPDD7whMO1tAt2+Km/xxYvD62LtWbT89bIxf/5Pj+nHOHKP/1DkJErfvp9AAAAAElFTkSuQmCC)
 ![fish](https://img.shields.io/badge/-fish-8abf49?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAICAYAAAAm06XyAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAATgAAAE4Bsc0fMwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAABwSURBVBiVpdGxDYJQFIXhF6cwMbqLC9C4D6FiB0v3sIEtSAgbQEWpfFYvvAAxRv72nvvn5tyA2kyLE45orHmjDBGc0SeBCreNxQIjJmSpYBnO8dgQRAZcUsE9Gb5wRfdF8DyEvfx9tt8Li8yF2fGqD0VaaM9Z+F28AAAAAElFTkSuQmCC)
 
 ---
 
-#### i’m currently trying to get back into the flow of open sourcing.
-i had a rather rough year in school and decided to take time off for a few years, or at least until the pandemic is not a pandemic anymore. in the meantime i would like to spend much more time writing open source software. i have so many plans and ideas for the future, it's exciting!!
+#### i’m currently learning Rust.
+Rust looks like a great language and i love the package ecosystem, and i am enjoying the learning experience so far! right now i'm reading through [the official book](https://doc.rust-lang.org/stable/book/) based on a suggestion by a friend. i hope to be welcomed as a fellow rustacean soon!
 
 #### i’m looking for help with funding.
 i have a [ko-fi](https://ko-fi.com/reeseovine) where you can make a one-time donation, or you can make a monthly donation on [my Sponsors page](https://github.com/sponsors/katacarbix).
