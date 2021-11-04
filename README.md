@@ -11,7 +11,7 @@
 - :name_badge: my pronouns are **they/them**
 - :mage: i'm **23** years old
 - :heart_eyes_cat: i have an adorable cat named **Lexi** (see -->)
-- :art: [i also make art sometimes](https://tumblr.ovine.xyz)
+- :art: [i also make art sometimes](https://reeseovine.tumblr.com)
 - :fox_face: a lot of my code is on [GitLab](https://gitlab.com/katacarbix) too!
 
 ---
@@ -62,8 +62,7 @@ i have a [ko-fi](https://ko-fi.com/reeseovine) where you can make a one-time don
 	</tr>
 	<tr>
 		<td>
-			<a href="https://twitter.com/reeseovine"><img src="https://img.shields.io/badge/-%40reeseovine-424242?style=flat&logo=twitter"></a> follow me on Twitter<br>
-			<a href="https://discord.gg/cQSEBjc"><img src="https://discord.com/api/guilds/669983008908116005/widget.png"></a> join my Discord server
+			<a href="https://twitter.com/reeseovine"><img src="https://img.shields.io/badge/-%40reeseovine-424242?style=flat&logo=twitter"></a> follow me on Twitter
 		</td>
 		<td>
 			<a href="https://github.com/sponsors/katacarbix">:heart::octocat: Sponsor me</a><br>
