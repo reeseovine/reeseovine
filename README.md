@@ -9,10 +9,10 @@
 ### hey, i'm reese! 🐑🌈
 
 - :name_badge: my pronouns are **they/them**
-- :mage: i'm **23** years old
+- :mage: i'm **24** years old
 - :heart_eyes_cat: i have an adorable cat named **Lexi** (see -->)
 - :art: [i also make art sometimes](https://reeseovine.tumblr.com)
-- :fox_face: a lot of my code is on [GitLab](https://gitlab.com/katacarbix) too!
+- :fox_face: some of my code is on [GitLab](https://gitlab.com/katacarbix) too!
 
 ---
 
@@ -62,7 +62,8 @@ i have a [ko-fi](https://ko-fi.com/reeseovine) where you can make a one-time don
 	</tr>
 	<tr>
 		<td>
-			<a href="https://twitter.com/reeseovine"><img src="https://img.shields.io/badge/-%40reeseovine-424242?style=flat&logo=twitter"></a> follow me on Twitter
+			<a href="https://twitter.com/reeseovine"><img src="https://img.shields.io/badge/-%40reeseovine-424242?style=flat&logo=twitter"></a> follow me on Twitter<br>
+			<a href="https://blog.ovine.xyz">check out my blog!</a>
 		</td>
 		<td>
 			<a href="https://github.com/sponsors/katacarbix">:heart::octocat: Sponsor me</a><br>
