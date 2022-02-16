@@ -10,7 +10,7 @@
 
 - :name_badge: my pronouns are **they/them**
 - :mage: i'm **24** years old
-- :heart_eyes_cat: i have an adorable cat named **Lexi** (see -->)
+- :heart_eyes_cat: i have an adorable cat named **Lexi** (see :arrow_right:)
 - :art: [i also make art sometimes](https://reeseovine.tumblr.com)
 - :fox_face: some of my code is on [GitLab](https://gitlab.com/katacarbix) too!
 
@@ -33,10 +33,8 @@ code:
 ![Sass](https://img.shields.io/badge/-Sass-8abf49?style=flat&logo=sass&logoColor=white)
 
 graphics:
-![Glimpse](https://img.shields.io/badge/-Glimpse-ff4d66?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAowAAAKMB8MeazgAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAAQdEVYdFRpdGxlAGxvZ29fYmFzaWPStrRzAAAA+UlEQVQokY2QMS+DURSGn1sTHSoGRCLpYEQ6CYnoyMDf6B9oY+9v8QNqas0iDAwEo0E3IRGDCIPHcls3X7/v411u7nve95zzHiiAeqSeqXtFmlTcVlvqlHriLy7UgzLjXRReqvdO4lzdHYlv1IG6nxjL8KV2g/oEzAPfwAdQLUlzCwyBZiUhK3+YAOpAD5hJJ/4X70A1qFdxxUVgJUcoECZZ3YxvTX3OHOIh1hrqZ1oYZwwhvAHtvN1CCNdAB3hJJ26pc8m/lzQeJvyquqAeqv0RuabuqLPqkvoajY+RX1bX1encc8XittrJZKyrG7mmTIOGeqyeFml+AKHxMqTGE0/UAAAAAElFTkSuQmCC)
+![GIMP](https://img.shields.io/badge/-GIMP-ff4d66?style=flat&logo=gimp&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/-Inkscape-ff4db8?style=flat&logo=inkscape&logoColor=white)
-![Processing](https://img.shields.io/badge/-Processing-ae54ff?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAOCAYAAAAbvf3sAAABj2lDQ1BJQ0MgcHJvZmlsZQAAKJF9kb1Lw1AUxU9Ti0UqDjqIFMlQHcSKKIiDi1UsQoVQK1h1MHn9EpI0JCkujoJrwUF08WvQP0B0dXAVBEERRBz8C/xapMT7kkCLtD543F9O7j28dx4gnKtMs9pGAU23zXQyIS5nV8T2N0QQRAgj6JeZZUxLUgot1/cDArzex7lX676mqzOXtxgQEInnmGHaxCXiiU3b4HxE3MNKco74gnjYpAMSv3Jd8fiTc9FlIczZzKRniKPEYrGBlQZmJVMjniKO5TSd/IV1j3OctzlraoX55+Q3jOT1pUWqQ7SjSELFBjQYsJCHCAUV+lZhI05VJ8VCmroSlG1znz7XR6I5xfViNDOLMnnKrgP4W/zN2CqMj3lOEXIOvTjOxwDQvgvUqo7zc+w4tRMg+Axc6/X5MuU4+UV6ta7FDoEuuuflTV1T9oCrHaD3yZBN2ZWCtIVCAXg/o+fKAt13QMeql5//H6ePQGYLSN0C+wfAYJG811rcO+znN48FSP/2+An+AvMzdLXhPYZoAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAC4jAAAuIwF4pT92AAAAB3RJTUUH5AwDBTEKtgednAAAABx0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR2xpbXBzZe5OGAcAAADBSURBVCjPnZCxTgJBFEXPbrSAihgqG37Enp6PsIZQWfgH/oCBcn/AwoLaltZYSbEBKuhMTJbEY8FDNobBjSeZvMzcuW/eHdRFrFKt1DmAeqt+qi/qWG0D5MAT8A60gEuObKLeAA/Am19e/6jqo3vmh7NdZa6OPFKcNdS059C2Oc1YRr1qauhFff3ToA6BfmynyQzqQF3VAk8BLs407wIdYAYUWZYVv59O/lKdpqH/b0C9i3HWMdKHOlHvU4YU5an735/UyAs0uED/AAAAAElFTkSuQmCC)
-![Blender](https://img.shields.io/badge/-Blender-4eaff2?style=flat&logo=blender&logoColor=white)
 
 [environment](https://github.com/katacarbix/dotfiles):
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-ff4d66?style=flat&logo=ubuntu&logoColor=white)
@@ -47,11 +45,8 @@ graphics:
 
 ---
 
-#### i’m currently learning Rust.
-Rust looks like a great language and i love the package ecosystem, and i am enjoying the learning experience so far! right now i'm reading through [the official book](https://doc.rust-lang.org/stable/book/) based on a suggestion by a friend. i hope to be welcomed as a fellow rustacean soon!
-
 #### i’m looking for help with funding.
-i have a [ko-fi](https://ko-fi.com/reeseovine) where you can make a one-time donation, or you can make a monthly donation on [my Sponsors page](https://github.com/sponsors/katacarbix).
+you can make a one-time donation by [buying me a coffee](https://buymeacoffee.com/reeseovine), or you can make a monthly donation on [my Sponsors page](https://github.com/sponsors/katacarbix).
 
 ---
 
@@ -62,12 +57,12 @@ i have a [ko-fi](https://ko-fi.com/reeseovine) where you can make a one-time don
 	</tr>
 	<tr>
 		<td>
-			<a href="https://twitter.com/reeseovine"><img src="https://img.shields.io/badge/-%40reeseovine-424242?style=flat&logo=twitter"></a> follow me on Twitter<br>
-			<a href="https://blog.ovine.xyz">check out my blog!</a>
+			<a href="https://twitter.com/reeseovine">:bird: follow me on Twitter!</a><br>
+			<a href="https://blog.ovine.xyz">:memo: check out my blog!</a>
 		</td>
 		<td>
-			<a href="https://github.com/sponsors/katacarbix">:heart::octocat: Sponsor me</a><br>
-			<a href="https://ko-fi.com/J3J61Z29K"><img src="https://www.ko-fi.com/img/githubbutton_sm.svg"></a>
+			<a href="https://github.com/sponsors/katacarbix">:heart::octocat: Sponsor me!</a><br>
+			<a href="https://buymeacoffee.com/reeseovine">:coffee: buy me a coffee!</a>
 		</td>
 	</tr>
 </table>
