@@ -1,7 +1,7 @@
 <table align="right">
 	<tr>
 		<td>
-			<img width="186px" src="https://raw.githubusercontent.com/katacarbix/katacarbix/master/lexi.jpg">
+			<img width="186px" src="https://raw.githubusercontent.com/reeseovine/reeseovine/main/lexi.jpg">
 		</td>
 	</tr>
 </table>
@@ -17,8 +17,8 @@
 ---
 
 <p align="center">
-	<img height="165px" src="https://github-readme-stats.vercel.app/api?username=katacarbix&show_icons=true&count_private=true&title_color=e041a0&text_color=1f1f1f&icon_color=368cc9">
-	<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katacarbix&layout=compact&count_private=false&hide=css&title_color=e041a0&text_color=1f1f1f&icon_color=368cc9">
+	<img height="165px" src="https://github-readme-stats.vercel.app/api?username=reeseovine&show_icons=true&count_private=true&title_color=e041a0&text_color=1f1f1f&icon_color=368cc9">
+	<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reeseovine&layout=compact&count_private=false&hide=css&title_color=e041a0&text_color=1f1f1f&icon_color=368cc9">
 </p>
 
 ---
@@ -61,7 +61,7 @@ you can make a one-time donation by [buying me a coffee](https://buymeacoffee.co
 			<a href="https://blog.ovine.xyz">:memo: check out my blog!</a>
 		</td>
 		<td>
-			<a href="https://github.com/sponsors/katacarbix">:heart::octocat: Sponsor me!</a><br>
+			<a href="https://github.com/sponsors/reeseovine">:heart::octocat: Sponsor me!</a><br>
 			<a href="https://buymeacoffee.com/reeseovine">:coffee: buy me a coffee!</a>
 		</td>
 	</tr>
