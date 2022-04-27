@@ -57,7 +57,7 @@ you can make a one-time donation by [buying me a coffee](https://buymeacoffee.co
 	</tr>
 	<tr>
 		<td>
-			<a href="https://twitter.com/reeseovine">:bird: follow me on Twitter!</a><br>
+			<a href="https://mspsocial.net/@reese" rel="me">:elephant: follow me on mastodon!</a><br>
 			<a href="https://blog.ovine.xyz">:memo: check out my blog!</a>
 		</td>
 		<td>
