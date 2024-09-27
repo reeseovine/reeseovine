@@ -8,7 +8,7 @@
 
 ### hey, i'm reese! 🐑🌈
 
-i mostly use Gitea these days; [here's mine](https://git.cyberia.club/reese). i have a lot of unfinished projects and i get bored of them quickly. if you are interested, i encourage you to fork any of my projects and continue its development on your own terms.
+i mostly use a community-run Forgejo instance these days; [here's mine](https://git.cyberia.club/reese). i have a lot of unfinished projects and i get bored of them quickly. if you are interested, i encourage you to fork any of my projects and continue its development on your own terms!
 
 <table>
 	<tr>
