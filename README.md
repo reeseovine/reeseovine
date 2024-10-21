@@ -18,7 +18,7 @@ i mostly use a community-run Forgejo instance these days; [here's mine](https://
 	<tr>
 		<td>
 			<a href="https://mspsocial.net/@reese" rel="me">:elephant: follow me on mastodon</a><br>
-			<a href="https://matrix.to/#/@reese:cyberia.club">:cyclone: message me through matrix</a>
+			<a href="https://matrix.to/#/@reese:seaofvoic.es">:cyclone: message me through matrix</a>
 		</td>
 		<td>
 			<a href="https://buymeacoffee.com/reeseovine">:coffee: buy me a coffee</a>
