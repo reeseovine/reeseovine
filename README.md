@@ -1,27 +1,19 @@
-<table align="right">
-	<tr>
-		<td>
-			<img width="186px" src="https://raw.githubusercontent.com/reeseovine/reeseovine/main/lexi.jpg">
-		</td>
-	</tr>
-</table>
+### hello! 🐑🌈
 
-### hey, i'm reese! 🐑🌈
-
-i mostly use a community-run Forgejo instance these days; [here's mine](https://git.cyberia.club/reese). i have a lot of unfinished projects and i get bored of them quickly. if you are interested, i encourage you to fork any of my projects and continue its development on your own terms!
+my code projects now live on [a community-run Forgejo instance](https://git.cyberia.club/reese). i am no longer willing to contribute my time and effort to big tech ecosystems such as microsoft github.
 
 <table>
 	<tr>
-		<th align="left">if you want to connect with me you can...</th>
-		<th align="left">if you want to support me you can...</th>
-	</tr>
-	<tr>
 		<td>
-			<a href="https://mspsocial.net/@reese" rel="me">:elephant: follow me on mastodon</a><br>
-			<a href="https://matrix.to/#/@reese:seaofvoic.es">:cyclone: message me through matrix</a>
+			<ul>
+				<li><a href="https://mspsocial.net/@reese" rel="me">:elephant: follow me on mastodon</a></li>
+				<li><a href="https://matrix.to/#/@reese:seaofvoic.es">:cyclone: message me through matrix</a></li>
+			</ul>
 		</td>
 		<td>
-			<a href="https://buymeacoffee.com/reeseovine">:coffee: buy me a coffee</a>
+			<ul>
+				<li><a href="https://ko-fi.com/reeseovine">:coffee: support me on ko-fi</a></li>
+			</ul>
 		</td>
 	</tr>
 </table>
