@@ -1,6 +1,6 @@
 ### hello! 🐑🌈
 
-[my code projects](https://git.cyberia.club/reese) now live on a community-run Forgejo instance. i am no longer willing to contribute my time and effort to big tech ecosystems.
+my code projects now live on [Codeberg](https://codeberg.org/reeseovine) and [a community-run Forgejo instance](https://git.cyberia.club/reese). i am no longer willing to contribute my time and effort to big tech ecosystems like GitHub.
 
 <table>
 	<tr>
